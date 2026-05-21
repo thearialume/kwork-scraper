@@ -6,7 +6,7 @@ Open-source скрапер для [kwork.ru](https://kwork.ru). Собирает
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/tolkocc/kwork-scraper
+git clone https://github.com/thearialume/kwork-scraper
 cd kwork-scraper
 
 # Установить зависимости
