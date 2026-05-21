@@ -138,4 +138,4 @@ python3 kwork-scraper.py -c design -s
 
 # 📄 Лицензия
 
-[MIT](LICENSE) © 2026 [Tolko](mailto:contact@tolko.cc) and [Aria Lume](mailto:thearialume@gmail.com)
+[MIT](LICENSE) © 2026 [Aria Lume](mailto:thearialume@gmail.com)
